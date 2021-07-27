@@ -6,7 +6,7 @@ green='\033[32m'
 os.system("pkg install toilet -y ")
 os.system("pkg install figlet -y ")
 os.system("clear")
-os.system("toilet -f mono12 -F gay "DDOS.AMA")
+os.system("toilet -f mono12 -F gay "DDOS_AMA")
 print(f"{yellow}==================================")
 print(" AMA.PLAYER big and famous ")
 print(" my telegram id: @ama_player0000 ")
