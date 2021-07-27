@@ -19,7 +19,7 @@ ip = socket.gethostbyname(target)
 port = 666
 joker = "DDOSjsjsjjdjdjdjdjjjjjjjjjiiiiiiiopppkkkkjjjjjhhhbbbbgbvvvvvvvvvvvvhhyggggh"
 os.system("clear")
-os.system("toilet -f mono12 gay "Loading")
+os.system("toilet -f mono12 gay Loading")
 print("Loading{~~~ }5%")
 time.sleep(3)
 print("Loading{~~~~~~ }26%")
