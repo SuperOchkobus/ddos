@@ -1,1 +1,1 @@
-# war.ddos.ama
+# ddos-ama
