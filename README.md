@@ -20,9 +20,9 @@
 
 * `ls`
 
-* `chmod +x 
+* `chmod +x `
  
 * `ls`
 
-* `python DDOS-AMA.py
+* `python DDOS-AMA.py `
 
