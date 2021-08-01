@@ -12,8 +12,8 @@ print(" ↦ AMA.PLAYER big and famous←• ")
 print(" ↦ My Telegram ID: @ama_player0000 ")
 print(" ↦ My Instagram ID: @ama.player0000 ")
 print(" ↦ My Youtube ID: @ama.player0000 ")
-print(" → ༺※Fucking The sister and mother of The Nation With 
-DDOS—AMA.PLAYER0000※༻ ")
+print(" → ※Fucking The sister and mother of The Nation With 
+DDOS—AMA.PLAYER0000※ ")
 print(" ➥==============ａｍａ．ｐｌａｙｅｒ００００===============➣")
 target = input(f"{green}Enter Target URL or IP : ")
 target.replace("http://", "")
