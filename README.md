@@ -10,7 +10,7 @@
 
 * `pkg install git -y`
 
-* `git clone https://github.com/mitimoti/DDOS-AMA`
+* `git clone https://github.com/ama-hacker/DDOS-AMA`
 
 * `cd $HOME`
 
