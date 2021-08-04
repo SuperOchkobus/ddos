@@ -12,15 +12,11 @@
 
 * `git clone https://github.com/ama-hacker/DDOS-AMA`
 
-* `cd $HOME`
-
-* `ls`
-
 * `cd DDOS-AMA`
 
 * `ls`
 
-* `chmod +x `
+* `chmod +x *`
  
 * `ls`
 
